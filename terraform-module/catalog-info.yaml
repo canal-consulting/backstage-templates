@@ -4,8 +4,11 @@ metadata:
   name: backstage-terraform-template
   description: A template for creating and managing Terraform modules in [backstage.io](https://www.backstage.io/)
   annotations:
-     backstage.io/techdocs-ref: dir:./docs
+     backstage.io/techdocs-ref: dir:.
      github.com/project-slug: canal-consulting/backstage-templates/terraform-module
+  tags:
+    - mlops
+    - bryan
 spec:
   type: service
   owner: bcgalvin
